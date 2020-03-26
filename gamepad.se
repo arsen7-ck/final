@@ -17,6 +17,12 @@ rightMouse = L2
 
 p = PS
 t = touchpad
+m = options
+q = share
+
+v = L3
+z = R3
+
 
 up = dpadUp
 left = dpadLeft
