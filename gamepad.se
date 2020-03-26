@@ -5,6 +5,11 @@ a = leftX-
 s = leftY+
 d = leftX+
 
+[ = rightY-
+; = rightX-
+' = rightY+
+] = rightX+
+
 y = X
 u = square
 i = O
