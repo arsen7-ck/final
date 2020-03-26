@@ -1,17 +1,28 @@
 # Map movement controls to the left stick. The same can be done using 'right' instead of 'left'.
 
-d = X
-e = square
-f = O
-r = triangle
+w = leftY-
+a = leftX-
+s = leftY+
+d = leftX+
 
-enter = PS
-space = touchpad
+y = X
+u = square
+i = O
+o = triangle
+
+g = R1
+h = R2
+leftMouse = L1
+rightMouse = L2
+
+p = PS
+t = touchpad
 
 up = dpadUp
 left = dpadLeft
 right = dpadRight
 down = dpadDown
+
 
 # Map mouse to the right stick
 #mouseLook.type = linear # 1:1 translation mode, no curve
